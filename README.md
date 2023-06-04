@@ -10,8 +10,16 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
+- [ ] Users see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
+
+## Additional/Optional Features
+
+The following **optional** functionalities are completed:
+
+- [ ] A new button is added that when tapped changes the label colors to randomly generated colors
+- [ ] An image of a graduation cap is added along with text to let the user know my projected college graduation year
+- [ ] A text field is added at the very bottom to allow users to type a message on-screen using their virtual keyboards
  
 ## Video Walkthrough
 
